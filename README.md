@@ -94,11 +94,8 @@ Below is a library of helpful documentation, or useful notes that I've either wr
 - [`QFlipper All Builds` All available QFlipper Builds](https://update.flipperzero.one/builds/qFlipper/)
 
 <!-- DO NOT MODIFY BELOW -->
-## Contributing
-<h3 align="center">Want to make changes?</h3>
-<div align="center">
-  𓆏 Pull requests are welcome. 𓆏<br>
-  You can <kbd><a href="https://github.com/FroggMaster/FlipperZero/edit/main/README.md">Edit this file</a></kbd> and open a Pull Request,
-  or <kbd><a href="https://github.com/FroggMaster/FlipperZero/discussions">Start a discussion</a></kbd> with your ideas.<br>
-  <em>(A GitHub account is required for both)</em> 
-</div>
+## Video Flipper Zero Explicado en 2 minutos
+¿Qué es, cómo funciona y cuáles son las limitaciones de esta nueva sensación viral?
+<br>
+
+[![Alt text](https://img.youtube.com/vi/Buld1mOhl80/0.jpg)](https://www.youtube.com/watch?v=Buld1mOhl80)
