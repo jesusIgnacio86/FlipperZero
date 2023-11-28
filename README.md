@@ -2,7 +2,7 @@
 Repositorio Tarea Magister Universidad Mayor Chile
 <hr>
 <a href="https://github.com/FroggMaster/FlipperZero">
-  <img src="https://user-images.githubusercontent.com/12762784/173307397-692935d2-cc58-4c97-82ee-9d5a56f708fc.png" align="center" alt="Frog's Flipper Zero Repo" title="Frog's Flipper Zero Repo" width="1200" height="300">
+  <img src="https://github.com/jesusIgnacio86/FlipperZero/blob/main/flipperzero.jpg" align="center" alt="Frog's Flipper Zero Repo" title="Frog's Flipper Zero Repo" width="800" height="300">
 </a>
 
 <hr>
