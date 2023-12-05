@@ -1,5 +1,5 @@
 # FlipperZero
-Repositorio Tarea Magister Universidad Mayor Chile
+Repositorio Actividad My Way Magister Universidad Mayor Chile
 <hr>
 <a href="https://github.com/FroggMaster/FlipperZero">
   <img src="https://github.com/jesusIgnacio86/FlipperZero/blob/main/flipperzero.jpg" align="center" alt="Frog's Flipper Zero Repo" title="Frog's Flipper Zero Repo" width="800" height="300">
