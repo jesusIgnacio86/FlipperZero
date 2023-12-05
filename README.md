@@ -1,11 +1,16 @@
 # FlipperZero
 Repositorio Actividad My Way Magister Universidad Mayor Chile
-<hr>
-<a href="https://github.com/FroggMaster/FlipperZero">
-  <img src="https://github.com/jesusIgnacio86/FlipperZero/blob/main/flipperzero.jpg" align="center" alt="Frog's Flipper Zero Repo" title="Frog's Flipper Zero Repo" width="800" height="300">
-</a>
+## Video Flipper Zero Explicado en 2 minutos
+¿Qué es, cómo funciona y cuáles son las limitaciones de esta nueva sensación viral?
+<br>
 
-<hr>
+[![Alt text](https://img.youtube.com/vi/Buld1mOhl80/0.jpg)](https://www.youtube.com/watch?v=Buld1mOhl80)
+
+## FlipperZero
+
+Tal y como explica el Instituto Nacional de Ciberseguridad (Incibe), se trata de una herramienta multifuncional diseñada para ofrecer a los usuarios un conjunto capacidades para «explorar, aprender y experimentar con tecnologías de comunicación inalámbrica, sistemas de seguridad y dispositivos electrónicos en genera
+<br>
+
 <h3 align="center">
  A collection of notes, scripts, applications, frequencies, etc... for the <a href="https://flipperzero.one">Flipper Zero</a> device.<br><br>
   <a href="#">
@@ -60,6 +65,10 @@ Repositorio Actividad My Way Magister Universidad Mayor Chile
 
 # Flipper Documents / Notes
 
+<a href="https://github.com/FroggMaster/FlipperZero">
+  <img src="https://github.com/jesusIgnacio86/FlipperZero/blob/main/flipperzero.jpg" align="center" alt="Frog's Flipper Zero Repo" title="Frog's Flipper Zero Repo" width="800" height="300">
+</a>
+<br>
 Below is a library of helpful documentation, or useful notes that I've either written or collected. 
 
 ## Guides / Instructions 
@@ -92,10 +101,3 @@ Below is a library of helpful documentation, or useful notes that I've either wr
 ### MISC
 - [`Flipper SW/HW Keynote` A collection of slides that overview the basics of software and hardware development](https://miro.com/app/board/o9J_l1XZfbw=/?moveToWidget=3458764514405659414&cot=14)
 - [`QFlipper All Builds` All available QFlipper Builds](https://update.flipperzero.one/builds/qFlipper/)
-
-<!-- DO NOT MODIFY BELOW -->
-## Video Flipper Zero Explicado en 2 minutos
-¿Qué es, cómo funciona y cuáles son las limitaciones de esta nueva sensación viral?
-<br>
-
-[![Alt text](https://img.youtube.com/vi/Buld1mOhl80/0.jpg)](https://www.youtube.com/watch?v=Buld1mOhl80)
